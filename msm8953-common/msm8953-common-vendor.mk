@@ -832,7 +832,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libaudio_log_utils \
-    libbtconfigstore \
     libloc_api_v02 \
     libqmiservices \
     libsdm-disp-vndapis \
